@@ -1,0 +1,9 @@
+# 运行时依赖
+PySide6>=6.6
+qt-material>=2.14
+markdown>=3.5
+pygments>=2.17
+
+# 只在重新生成字体/图标时需要（平时不用装）：
+#   fonttools  brotli      -> 把 Font Awesome 的 woff2 转成 Qt 能读的 ttf
+#   pillow                 -> 把图标源图转成 app.ico
