@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+Name=纳多狐狐的写作台
+Name[en]=NardoFox WriteDesk
+Comment=Hexo + Anzhiyu / Butterfly 博客桌面工具
+Comment[en]=Desktop tool for Hexo blogs
+Exec=/opt/nardofox-writedesk/NardoFoxWriteDesk
+Icon=nardofox-writedesk
+Terminal=false
+Categories=Development;Office;
+StartupWMClass=NardoFoxWriteDesk
